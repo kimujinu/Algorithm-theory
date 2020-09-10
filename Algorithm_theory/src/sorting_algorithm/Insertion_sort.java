@@ -4,7 +4,7 @@ public class Insertion_sort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] data = new int[]{5,2,9,3,1,4,6};
+		int[] data = new int[]{5,2,9,8,3,1,4,6};
 		
 		for(int i=1;i<data.length;i++) {
 			for(int j=i;j>0;j--) {
