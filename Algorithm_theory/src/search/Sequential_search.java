@@ -14,7 +14,7 @@ public class Sequential_search {
 				System.out.println(array[i]+"의 값은"+i+"번째에 있다.");
 			}else {
 				System.out.println("존재 하지 않음");
-			}
+			} 
 		}
 	}
 
