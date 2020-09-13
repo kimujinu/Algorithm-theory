@@ -19,7 +19,7 @@ public class Binary_search {
 			middle = (right+left)/2;
 			
 			if(search == array[middle]) {
-				System.out.println("값은 : "+ middle + "번 째에 있다.");
+				System.out.println(array[middle]+"의 값은 : "+ middle + "번 째에 있다.");
 			}
 			
 			if(search < array[middle]) {
